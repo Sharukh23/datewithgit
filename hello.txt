@@ -1,3 +1,10 @@
+
+wwcewce
+eceecwece
 hellow
 how are you
+<<<<<<< HEAD
 can we tommorrow
+=======
+enthada monuseee
+>>>>>>> master
